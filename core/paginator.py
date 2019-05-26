@@ -242,7 +242,7 @@ class MessagePaginatorSession:
             "◀": self.previous_page,
             "▶": self.next_page,
             "⏭": self.last_page,
-            "🛑": self.close,
+            "❌": self.close,
         }
 
     def add_page(self, msg: str) -> None:
