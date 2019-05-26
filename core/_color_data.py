@@ -5,7 +5,7 @@ Slightly modified to conform with usage.
 
 
 BASE_COLORS = {
-    "b": "#0000ff",
+    "b": "#17325e",
     "g": "#007f00",
     "r": "#ff0000",
     "c": "#00bfbf",
