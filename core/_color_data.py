@@ -10,7 +10,7 @@ BASE_COLORS = {
     "r": "#ff0000",
     "c": "#00bfbf",
     "m": "#bf00bf",
-    "y": "#bfbf00",
+    "y": "#F3BD55",
     "k": "#000000",
     "w": "#ffffff",
 }
